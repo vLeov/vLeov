@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
-<a href="https://app.daily.dev/vLeov"> <img align="right" src="[https://api.daily.dev/devcards/2a00ca101fd5405c8a6eed1318cb3bc0.png?r=ou8](https://api.daily.dev/devcards/2a00ca101fd5405c8a6eed1318cb3bc0.png?r=bru)" width="200" alt="Leo's Dev Card"/> </a>
+<a href="https://app.daily.dev/vLeov"> <img align="right" src="https://api.daily.dev/devcards/2a00ca101fd5405c8a6eed1318cb3bc0.png?r=bru" width="200" alt="Leo's Dev Card"/> </a>
 
 - 🔭 I’m currently working on **a Website**
 
