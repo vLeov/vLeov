@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/vleov](https://dev.to/vleov)
 
-- 📫 How to reach me (Discord) **vLeov#3281**
+- 📫 How to reach me (Discord) <a href="https://discord.com/users/606798461605511181">**vLeov#3281**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
