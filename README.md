@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from Germany</h3>
 <a href="https://app.daily.dev/vLeov"> <img align="right" src="https://api.daily.dev/devcards/2a00ca101fd5405c8a6eed1318cb3bc0.png?r=bru" width="250" alt="Leo's Dev Card"/> </a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vleov&label=Profile%20views&color=0e75b6&style=flat" alt="vleov" /> </p>
+
 - 🔭 I’m currently working on **a Website**
 
 - 🌱 I’m currently learning **Webdevelopment**
