@@ -8,13 +8,12 @@
 
 - 🌱 I’m currently learning **Webdevelopment**
 
-- 📝 I regularly write articles on [https://dev.to/vleov](https://dev.to/vleov)
+- 📝 I regularly write articles on [https://dev.to/vleov](https://dev.to/vleov) and [[https://dev.to/vleov](https://vleov.hashnode.dev/)]([https://dev.to/vleov](https://vleov.hashnode.dev/))
 
 - 📫 How to reach me (Discord) <a href="https://discord.com/users/606798461605511181">**vLeov#3281**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/vleov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vleov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16268909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16268909" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user3589pz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3589pz" height="30" width="40" /></a>
 </p>
