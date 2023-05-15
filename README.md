@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Webdevelopment**
 
-- 📝 I regularly write articles on [https://dev.to/vleov](https://dev.to/vleov) and [[https://dev.to/vleov](https://vleov.hashnode.dev/)]([https://dev.to/vleov](https://vleov.hashnode.dev/))
+- 📝 I regularly write articles on [https://dev.to/vleov](https://dev.to/vleov) and 
 
 - 📫 How to reach me (Discord) <a href="https://discord.com/users/606798461605511181">**vLeov#3281**</a>
 
