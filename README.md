@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
+<a href="https://wakatime.com/@b6862af0-caca-4925-87cf-5ec2cccee99c"><img src="https://wakatime.com/badge/user/b6862af0-caca-4925-87cf-5ec2cccee99c.svg" alt="Total time coded since Apr 21 2023" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vleov&label=Profile%20views&color=0e75b6&style=flat" alt="vleov" /> </p> <a href="https://wakatime.com/badge/user/b6862af0-caca-4925-87cf-5ec2cccee99c/project/0f3b48f4-9aab-43fe-810b-39481d4deb4e"><img src="https://wakatime.com/badge/user/b6862af0-caca-4925-87cf-5ec2cccee99c/project/0f3b48f4-9aab-43fe-810b-39481d4deb4e.svg" alt="wakatime"></a>
 
