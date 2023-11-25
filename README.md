@@ -2,7 +2,7 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vleov&label=Profile%20views&color=0e75b6&style=flat" alt="vleov" /> </p> 
-<p algin="center"> <img src="https://wakatime.com/badge/user/b6862af0-caca-4925-87cf-5ec2cccee99c.svg" alt="Total time coded since Apr 21 2023" /> </p>
+<p align="center"> <img src="https://wakatime.com/badge/user/b6862af0-caca-4925-87cf-5ec2cccee99c.svg" alt="Total time coded since Apr 21 2023" /> </p>
 
 
 <h3 align="center">Languages and Tools:</h3>
