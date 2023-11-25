@@ -2,7 +2,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vleov&label=Profile%20views&color=0e75b6&style=flat" alt="vleov" /> </p> <a href="https://wakatime.com/@b6862af0-caca-4925-87cf-5ec2cccee99c"><img src="https://wakatime.com/badge/user/b6862af0-caca-4925-87cf-5ec2cccee99c.svg" alt="Total time coded since Apr 21 2023" /></a>
-
+<br>
 - 📫 How to reach me (Discord) <a href="https://discord.com/users/606798461605511181">**vLeov**</a>
 
 
