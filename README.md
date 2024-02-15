@@ -1,15 +1,6 @@
 <h2 align="left">Hi 👋! My name is Leo and I'm a Webdeveloper, from Germany.</h2>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vLeov&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vLeov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src=""  />
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1169970663621152788/1207596121342615572/unknown.png?ex=65e03887&is=65cdc387&hm=a28279033cce71553f2a810e6791205f27d9f756a72469e56bad8f935b27f840&"  />
 
 ###
 
@@ -50,6 +41,19 @@
 
 <img src="https://raw.githubusercontent.com/vLeov/vLeov/output/snake.svg" alt="Snake animation" />
 
+###
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vLeov&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vLeov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+###
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=3xnkgsyqh538be8tw06dh2tx1&count={count})
 ###
 
 
