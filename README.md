@@ -47,10 +47,9 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vLeov&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3xnkgsyqh538be8tw06dh2tx1)
 </div>
 
 ###
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3xnkgsyqh538be8tw06dh2tx1)
 
 
