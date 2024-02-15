@@ -52,8 +52,6 @@
 
 ###
 
-###
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=3xnkgsyqh538be8tw06dh2tx1&count={count})
-###
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
 
 
