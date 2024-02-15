@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Leo and I'm a Webdeveloper, from Germany.</h2>
 
-<img align="right" height="150" src="[https://cdn.discordapp.com/attachments/1169970663621152788/1207596121342615572/unknown.png?ex=65e03887&is=65cdc387&hm=a28279033cce71553f2a810e6791205f27d9f756a72469e56bad8f935b27f840&](https://giphy.com/gifs/code-chimpers-master-chimpo-fByehYIrOIzO8XolJK)"  />
+<img align="right" height="150" src="https://giphy.com/embed/fByehYIrOIzO8XolJK"  />
 
 ###
 <br>
