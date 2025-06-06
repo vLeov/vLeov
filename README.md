@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Building Stuff since 2021<br>📚 I'm currently learning React/Nextjs and Go<br>📈 Always improving – building real-world projects to level up<br>🤝 Open for collaboration and learning from others</p>
+<p align="left">✨ Building Stuff since 2021<br>📚 I'm currently learning Webdevelopment<br>📈 Always improving – building real-world projects to level up<br>🤝 Open for collaboration and learning from others</p>
 
 ###
 
